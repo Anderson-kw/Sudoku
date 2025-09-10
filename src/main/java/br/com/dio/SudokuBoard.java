@@ -1,7 +1,5 @@
 package br.com.dio;
 
-import java.util.Scanner;
-
 public class SudokuBoard {
 
     private final int[][] board;
